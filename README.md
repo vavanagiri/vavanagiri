@@ -8,8 +8,6 @@
 - ⚡ Fun fact: I love to run 🏃
 
 ### Connect with me:
-### Languages and Tools:
-
 
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/linux.png" />][unix_shell_playlist]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/shell.jpg" />][unix_shell_playlist]
@@ -35,4 +33,4 @@
 
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DeekshithSN&show_icons=true&hide_border=true" /
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DeekshithSN&show_icons=true&hide_border=true" />
